@@ -1,2 +1,2 @@
-# silviozas-proxy
+# silviozas
 - growtopia shit
